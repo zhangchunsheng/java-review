@@ -19,4 +19,4 @@ spark
 
 https://spring.io
 https://gradle.org/install/
-http://sdkman.io
+brew install gradle
