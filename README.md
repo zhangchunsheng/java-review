@@ -8,6 +8,7 @@ spring-framework
 hibernate
 dubbo
 multithreading
+tomcat
 gradle
 maven
 log4j
