@@ -18,3 +18,4 @@ YARN
 spark
 
 https://spring.io
+https://gradle.org/install/
